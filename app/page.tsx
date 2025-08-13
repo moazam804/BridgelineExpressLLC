@@ -211,6 +211,7 @@ export default function Home() {
               <ul className="space-y-2 text-gray-400">
                 <li>Phone:(555) 123-4567</li>
                 <li>Email:bridgelinexpress188@gmail.com</li>
+                <li>Address: 1601-1 N MAIN ST #3159 JACKSONVILLE, FL US 33206</li>
                 <li>24/7 Customer Support</li>
               </ul>
             </div>
