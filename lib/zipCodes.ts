@@ -1738,6 +1738,56 @@ export const zipCodes = [
     "city": "Houston",
     "state": "TX"
   },
+{"zip": "77001","city": "Houston","state": "TX"},
+{"zip": "77003","city": "Houston","state": "TX"},
+{"zip": "77004","city": "Houston","state": "TX"},
+{"zip": "77005","city": "Houston","state": "TX"},
+{"zip": "77006","city": "Houston","state": "TX"},
+{"zip": "77007","city": "Houston","state": "TX"},
+{"zip": "77008","city": "Houston","state": "TX"},
+{"zip": "77009","city": "Houston","state": "TX"},
+{"zip": "77010","city": "Houston","state": "TX"},
+{"zip": "77011","city": "Houston","state": "TX"},
+{"zip": "77012","city": "Houston","state": "TX"},
+{"zip": "77013","city": "Houston","state": "TX"},
+{"zip": "77014","city": "Houston","state": "TX"},
+{"zip": "77015","city": "Houston","state": "TX"},
+{"zip": "77016","city": "Houston","state": "TX"},
+{"zip": "77017","city": "Houston","state": "TX"},
+{"zip": "77018","city": "Houston","state": "TX"},
+{"zip": "77019","city": "Houston","state": "TX"},
+{"zip": "77020","city": "Houston","state": "TX"},
+{"zip": "77021","city": "Houston","state": "TX"},
+{"zip": "77022","city": "Houston","state": "TX"},
+{"zip": "77023","city": "Houston","state": "TX"},
+{"zip": "77024","city": "Houston","state": "TX"},
+{"zip": "77025","city": "Houston","state": "TX"},
+{"zip": "77026","city": "Houston","state": "TX"},
+{"zip": "77027","city": "Houston","state": "TX"},
+{"zip": "77028","city": "Houston","state": "TX"},
+{"zip": "77029","city": "Houston","state": "TX"},
+{"zip": "77030","city": "Houston","state": "TX"},
+{"zip": "77031","city": "Houston","state": "TX"},
+{"zip": "77032","city": "Houston","state": "TX"},
+{"zip": "77033","city": "Houston","state": "TX"},
+{"zip": "77034","city": "Houston","state": "TX"},
+{"zip": "77035","city": "Houston","state": "TX"},
+{"zip": "77036","city": "Houston","state": "TX"},
+{"zip": "77037","city": "Houston","state": "TX"},
+{"zip": "77038","city": "Houston","state": "TX"},
+{"zip": "77039","city": "Houston","state": "TX"},
+{"zip": "77040","city": "Houston","state": "TX"},
+{"zip": "77041","city": "Houston","state": "TX"},
+{"zip": "77042","city": "Houston","state": "TX"},
+{"zip": "77043","city": "Houston","state": "TX"},
+{"zip": "77044","city": "Houston","state": "TX"},
+{"zip": "77045","city": "Houston","state": "TX"},
+{"zip": "77046","city": "Houston","state": "TX"},
+{"zip": "77047","city": "Houston","state": "TX"},
+{"zip": "77048","city": "Houston","state": "TX"},
+{"zip": "77049","city": "Houston","state": "TX"},
+{"zip": "77050","city": "Houston","state": "TX"},
+
   {
     "zip": "77092",
     "city": "Houston",
@@ -4845,21 +4895,13 @@ export const zipCodes = [
     "city": "Beecher",
     "state": "IL"
   },
-  {
-    "zip": "60402",
-    "city": "Forestview",
-    "state": "IL"
-  },
+ 
   {
     "zip": "60402",
     "city": "Berwyn",
     "state": "IL"
   },
-  {
-    "zip": "60402",
-    "city": "Stickney",
-    "state": "IL"
-  },
+
   {
     "zip": "60406",
     "city": "Blue Island",
@@ -5562,22 +5604,7 @@ export const zipCodes = [
   },
   {
     "zip": "15001",
-    "city": "Macarthur",
-    "state": "PA"
-  },
-  {
-    "zip": "15001",
-    "city": "West Aliquippa",
-    "state": "PA"
-  },
-  {
-    "zip": "15001",
     "city": "Aliquippa",
-    "state": "PA"
-  },
-  {
-    "zip": "15003",
-    "city": "Fairoaks",
     "state": "PA"
   },
   {
@@ -5597,37 +5624,12 @@ export const zipCodes = [
   },
   {
     "zip": "15009",
-    "city": "West Bridgewater",
-    "state": "PA"
-  },
-  {
-    "zip": "15009",
     "city": "Beaver",
-    "state": "PA"
-  },
-  {
-    "zip": "15009",
-    "city": "Vanport",
-    "state": "PA"
-  },
-  {
-    "zip": "15010",
-    "city": "Racine",
     "state": "PA"
   },
   {
     "zip": "15010",
     "city": "Beaver Falls",
-    "state": "PA"
-  },
-  {
-    "zip": "15010",
-    "city": "Patterson Heights",
-    "state": "PA"
-  },
-  {
-    "zip": "15012",
-    "city": "Belle Vernon Branch",
     "state": "PA"
   },
   {
@@ -5646,35 +5648,12 @@ export const zipCodes = [
     "state": "PA"
   },
   {
-    "zip": "15021",
-    "city": "Paris",
-    "state": "PA"
-  },
-  {
     "zip": "15022",
     "city": "Charleroi",
     "state": "PA"
   },
-  {
-    "zip": "15022",
-    "city": "North Charleroi",
-    "state": "PA"
-  },
-  {
-    "zip": "15025",
-    "city": "Floreffe",
-    "state": "PA"
-  },
-  {
-    "zip": "15025",
-    "city": "Jefferson Hills",
-    "state": "PA"
-  },
-  {
-    "zip": "15025",
-    "city": "Large",
-    "state": "PA"
-  },
+
+  
   {
     "zip": "15026",
     "city": "Clinton",
@@ -5710,11 +5689,7 @@ export const zipCodes = [
     "city": "Georgetown",
     "state": "PA"
   },
-  {
-    "zip": "15046",
-    "city": "Glenwillard",
-    "state": "PA"
-  },
+ 
   {
     "zip": "16801",
     "city": "State College",
@@ -5723,11 +5698,6 @@ export const zipCodes = [
   {
     "zip": "16802",
     "city": "University Park",
-    "state": "PA"
-  },
-  {
-    "zip": "16802",
-    "city": "State College",
     "state": "PA"
   },
   {
@@ -5760,21 +5730,8 @@ export const zipCodes = [
     "city": "Beech Creek",
     "state": "PA"
   },
-  {
-    "zip": "16823",
-    "city": "Hublersburg",
-    "state": "PA"
-  },
-  {
-    "zip": "16823",
-    "city": "Pleasant Gap",
-    "state": "PA"
-  },
-  {
-    "zip": "16823",
-    "city": "Wingate",
-    "state": "PA"
-  },
+  
+
   {
     "zip": "16823",
     "city": "Bellefonte",
@@ -6531,7 +6488,6 @@ export const zipCodes = [
   { "zip": "28040", "city": "Ellenboro", "state": "NC" },
   { "zip": "28041", "city": "Faith", "state": "NC" },
   { "zip": "28042", "city": "Fallston", "state": "NC" },
-  { "zip": "28043", "city": "Alexander Mills", "state": "NC" },
   { "zip": "28043", "city": "Forest City", "state": "NC" },
   { "zip": "28052", "city": "Gastonia", "state": "NC" },
   { "zip": "28053", "city": "Gastonia", "state": "NC" },
@@ -6599,10 +6555,7 @@ export const zipCodes = [
   { "zip": "07004", "city": "Fairfield", "state": "NJ" },
   { "zip": "07005", "city": "Boonton", "state": "NJ" },
   { "zip": "07006", "city": "Caldwell", "state": "NJ" },
-  { "zip": "07006", "city": "North Caldwell", "state": "NJ" },
-  { "zip": "07006", "city": "West Caldwell", "state": "NJ" },
   { "zip": "07007", "city": "Caldwell", "state": "NJ" },
-  { "zip": "07007", "city": "West Caldwell", "state": "NJ" },
   { "zip": "07008", "city": "Carteret", "state": "NJ" },
   { "zip": "07009", "city": "Cedar Grove", "state": "NJ" },
   { "zip": "07010", "city": "Cliffside Park", "state": "NJ" },
@@ -6623,7 +6576,6 @@ export const zipCodes = [
   { "zip": "07026", "city": "Garfield", "state": "NJ" },
   { "zip": "07027", "city": "Garwood", "state": "NJ" },
   { "zip": "07028", "city": "Glen Ridge", "state": "NJ" },
-  { "zip": "07029", "city": "East Newark", "state": "NJ" },
   { "zip": "07029", "city": "Harrison", "state": "NJ" },
   { "zip": "07030", "city": "Hoboken", "state": "NJ" },
   { "zip": "07031", "city": "North Arlington", "state": "NJ" },
@@ -6631,7 +6583,6 @@ export const zipCodes = [
   { "zip": "07033", "city": "Kenilworth", "state": "NJ" },
   { "zip": "07034", "city": "Lake Hiawatha", "state": "NJ" },
   { "zip": "07035", "city": "Lincoln Park", "state": "NJ" },
-  { "zip": "07036", "city": "Winfield Park", "state": "NJ" },
   { "zip": "07036", "city": "Linden", "state": "NJ" },
   { "zip": "07039", "city": "Livingston", "state": "NJ" },
   { "zip": "07040", "city": "Maplewood", "state": "NJ" },
@@ -9290,20 +9241,15 @@ export const zipCodes = [
   // Maine
 { zip: '04001', city: 'Acton', state: 'ME' },
   { zip: '04002', city: 'Alfred', state: 'ME' },
-  { zip: '04002', city: 'Lyman', state: 'ME' },
   { zip: '04003', city: 'Bailey Island', state: 'ME' },
   { zip: '04004', city: 'Bar Mills', state: 'ME' },
   { zip: '04005', city: 'Biddeford', state: 'ME' },
-  { zip: '04005', city: 'Dayton', state: 'ME' },
   { zip: '04006', city: 'Biddeford Pool', state: 'ME' },
   { zip: '04007', city: 'Biddeford', state: 'ME' },
   { zip: '04008', city: 'Bowdoinham', state: 'ME' },
   { zip: '04009', city: 'Bridgton', state: 'ME' },
   { zip: '04010', city: 'Brownfield', state: 'ME' },
   { zip: '04011', city: 'Brunswick', state: 'ME' },
-  { zip: '04011', city: 'Birch Island', state: 'ME' },
-  { zip: '04011', city: 'Cundys Harbor', state: 'ME' },
-  { zip: '04013', city: 'South Freeport', state: 'ME' },
   { zip: '04013', city: 'Bustins Island', state: 'ME' },
   { zip: '04014', city: 'Cape Porpoise', state: 'ME' },
   { zip: '04015', city: 'Casco', state: 'ME' },
@@ -9312,7 +9258,6 @@ export const zipCodes = [
   { zip: '04019', city: 'Cliff Island', state: 'ME' },
   { zip: '04020', city: 'Cornish', state: 'ME' },
   { zip: '04021', city: 'Cumberland Center', state: 'ME' },
-  { zip: '04021', city: 'Cumberland', state: 'ME' },
   { zip: '04022', city: 'Denmark', state: 'ME' },
   { zip: '04024', city: 'East Baldwin', state: 'ME' },
   { zip: '04027', city: 'Lebanon', state: 'ME' },
@@ -9321,23 +9266,19 @@ export const zipCodes = [
   { zip: '04030', city: 'East Waterboro', state: 'ME' },
   { zip: '04032', city: 'Freeport', state: 'ME' },
   { zip: '04037', city: 'Fryeburg', state: 'ME' },
-  { zip: '04037', city: 'North Fryeburg', state: 'ME' },
   { zip: '04038', city: 'Gorham', state: 'ME' },
   { zip: '04039', city: 'Gray', state: 'ME' },
   { zip: '04040', city: 'Harrison', state: 'ME' },
   { zip: '04041', city: 'Hiram', state: 'ME' },
   { zip: '04042', city: 'Hollis Center', state: 'ME' },
   { zip: '04043', city: 'Kennebunk', state: 'ME' },
-  { zip: '04046', city: 'Arundel', state: 'ME' },
   { zip: '04046', city: 'Kennebunkport', state: 'ME' },
-  { zip: '04047', city: 'Kezar Falls', state: 'ME' },
   { zip: '04047', city: 'Parsonsfield', state: 'ME' },
   { zip: '04048', city: 'Limerick', state: 'ME' },
   { zip: '04049', city: 'Limington', state: 'ME' },
   { zip: '04050', city: 'Long Island', state: 'ME' },
   { zip: '04051', city: 'Lovell', state: 'ME' },
   { zip: '04053', city: 'Brunswick', state: 'ME' },
-  { zip: '04053', city: 'Merepoint', state: 'ME' },
   { zip: '04054', city: 'Moody', state: 'ME' },
   { zip: '04055', city: 'Naples', state: 'ME' },
   { zip: '04056', city: 'Newfield', state: 'ME' },
@@ -9350,28 +9291,21 @@ export const zipCodes = [
   { zip: '04068', city: 'Porter', state: 'ME' },
   { zip: '04069', city: 'Pownal', state: 'ME' },
   { zip: '04070', city: 'Scarborough', state: 'ME' },
-  { zip: '04070', city: 'West Scarborough', state: 'ME' },
   { zip: '04071', city: 'Raymond', state: 'ME' },
-  { zip: '04071', city: 'Frye Island', state: 'ME' },
   { zip: '04072', city: 'Saco', state: 'ME' },
   { zip: '04073', city: 'Sanford', state: 'ME' },
   { zip: '04074', city: 'Scarborough', state: 'ME' },
-  { zip: '04074', city: 'Pine Point', state: 'ME' },
   { zip: '04075', city: 'Sebago Lake', state: 'ME' },
   { zip: '04076', city: 'Shapleigh', state: 'ME' },
-  { zip: '04076', city: 'North Shapleigh', state: 'ME' },
   { zip: '04077', city: 'South Casco', state: 'ME' },
   { zip: '04078', city: 'South Freeport', state: 'ME' },
   { zip: '04079', city: 'Harpswell', state: 'ME' },
-  { zip: '04079', city: 'South Harpswell', state: 'ME' },
   { zip: '04081', city: 'South Waterford', state: 'ME' },
-  { zip: '04082', city: 'Windham', state: 'ME' },
   { zip: '04082', city: 'South Windham', state: 'ME' },
   { zip: '04083', city: 'Springvale', state: 'ME' },
   { zip: '04084', city: 'Standish', state: 'ME' },
   { zip: '04085', city: 'Steep Falls', state: 'ME' },
   { zip: '04086', city: 'Topsham', state: 'ME' },
-  { zip: '04086', city: 'Pejepscot', state: 'ME' },
   { zip: '04087', city: 'Waterboro', state: 'ME' },
   { zip: '04088', city: 'Waterford', state: 'ME' },
   { zip: '04090', city: 'Wells', state: 'ME' },
@@ -9398,10 +9332,8 @@ export const zipCodes = [
   { zip: '03044', city: 'Fremont', state: 'NH' },
   { zip: '03045', city: 'Goffstown', state: 'NH' },
   { zip: '03046', city: 'Dunbarton', state: 'NH' },
-  { zip: '03046', city: 'Goffstown', state: 'NH' },
   { zip: '03047', city: 'Greenfield', state: 'NH' },
   { zip: '03048', city: 'Greenville', state: 'NH' },
-  { zip: '03048', city: 'Mason', state: 'NH' },
   { zip: '03049', city: 'Hollis', state: 'NH' },
   { zip: '03051', city: 'Hudson', state: 'NH' },
   { zip: '03052', city: 'Litchfield', state: 'NH' },
@@ -9753,7 +9685,6 @@ export const zipCodes = [
   { zip: '82620', city: 'Alcova', state: 'WY' },
   { zip: '83128', city: 'Alpine', state: 'WY' },
   { zip: '83414', city: 'Alta', state: 'WY' },
-  { zip: '83422', city: 'Alta', state: 'WY' },
   { zip: '82711', city: 'Alva', state: 'WY' },
   { zip: '82510', city: 'Arapahoe', state: 'WY' },
   { zip: '82083', city: 'Arlington', state: 'WY' },
@@ -9764,7 +9695,6 @@ export const zipCodes = [
   { zip: '82321', city: 'Baggs', state: 'WY' },
   { zip: '82322', city: 'Bairoil', state: 'WY' },
   { zip: '82832', city: 'Banner', state: 'WY' },
-  { zip: '82601', city: 'Bar Nunn', state: 'WY' },
   { zip: '82410', city: 'Basin', state: 'WY' },
   { zip: '82930', city: 'Bear River', state: 'WY' },
   { zip: '82844', city: 'Beckton', state: 'WY' },
@@ -9772,7 +9702,6 @@ export const zipCodes = [
   { zip: '82712', city: 'Beulah', state: 'WY' },
   { zip: '82833', city: 'Big Horn', state: 'WY' },
   { zip: '83113', city: 'Big Piney', state: 'WY' },
-  { zip: '82923', city: 'Big Sandy', state: 'WY' },
   { zip: '82442', city: 'Big Trails', state: 'WY' },
   { zip: '82631', city: 'Bill', state: 'WY' },
   { zip: '82901', city: 'Bitter Creek', state: 'WY' },
@@ -9790,7 +9719,6 @@ export const zipCodes = [
   { zip: '82938', city: 'Burntfork', state: 'WY' },
   { zip: '82512', city: 'Burris', state: 'WY' },
   { zip: '82412', city: 'Byron', state: 'WY' },
-  { zip: '83113', city: 'Calpet', state: 'WY' },
   { zip: '82190', city: 'Canyon', state: 'WY' },
   { zip: '82713', city: 'Carlisle', state: 'WY' },
   { zip: '82054', city: 'Carpenter', state: 'WY' },
@@ -9820,7 +9748,6 @@ export const zipCodes = [
   { zip: '58502', city: 'Bismarck', state: 'ND' },
   { zip: '58503', city: 'Bismarck', state: 'ND' },
   { zip: '58504', city: 'Bismarck', state: 'ND' },
-  { zip: '58504', city: 'Lincoln', state: 'ND' },
   { zip: '58505', city: 'Bismarck', state: 'ND' },
   { zip: '58506', city: 'Bismarck', state: 'ND' },
   { zip: '58507', city: 'Bismarck', state: 'ND' },
@@ -9830,49 +9757,34 @@ export const zipCodes = [
   { zip: '58524', city: 'Braddock', state: 'ND' },
   { zip: '58528', city: 'Cannon Ball', state: 'ND' },
   { zip: '58529', city: 'Carson', state: 'ND' },
-  { zip: '58529', city: 'Leith', state: 'ND' },
-  { zip: '58530', city: 'Fort Clark', state: 'ND' },
-  { zip: '58530', city: 'Hensler', state: 'ND' },
   { zip: '58530', city: 'Center', state: 'ND' },
   { zip: '58531', city: 'Coleharbor', state: 'ND' },
   { zip: '58532', city: 'Driscoll', state: 'ND' },
-  { zip: '58533', city: 'Heil', state: 'ND' },
   { zip: '58533', city: 'Elgin', state: 'ND' },
   { zip: '58535', city: 'Flasher', state: 'ND' },
-  { zip: '58535', city: 'Lark', state: 'ND' },
   { zip: '58538', city: 'Fort Yates', state: 'ND' },
-  { zip: '58540', city: 'Emmet', state: 'ND' },
-  { zip: '58540', city: 'White Shield', state: 'ND' },
   { zip: '58540', city: 'Garrison', state: 'ND' },
   { zip: '58541', city: 'Golden Valley', state: 'ND' },
   { zip: '58542', city: 'Hague', state: 'ND' },
   { zip: '58544', city: 'Hazelton', state: 'ND' },
   { zip: '58545', city: 'Hazen', state: 'ND' },
   { zip: '58549', city: 'Kintyre', state: 'ND' },
-  { zip: '58552', city: 'Temvik', state: 'ND' },
+
   { zip: '58552', city: 'Linton', state: 'ND' },
-  { zip: '58554', city: 'Fort Rice', state: 'ND' },
-  { zip: '58554', city: 'Huff', state: 'ND' },
-  { zip: '58554', city: 'St. Anthony', state: 'ND' },
   { zip: '58554', city: 'Mandan', state: 'ND' },
   { zip: '58558', city: 'Menoken', state: 'ND' },
   { zip: '58559', city: 'Mercer', state: 'ND' },
   { zip: '58560', city: 'Moffit', state: 'ND' },
   { zip: '58561', city: 'Napoleon', state: 'ND' },
-  { zip: '58562', city: 'Bentley', state: 'ND' },
   { zip: '58562', city: 'New Leipzig', state: 'ND' },
-  { zip: '58563', city: 'Hannover', state: 'ND' },
-  { zip: '58563', city: 'Judson', state: 'ND' },
   { zip: '58563', city: 'New Salem', state: 'ND' },
   { zip: '58564', city: 'Raleigh', state: 'ND' },
   { zip: '58565', city: 'Riverdale', state: 'ND' },
   { zip: '58566', city: 'St. Anthony', state: 'ND' },
   { zip: '58568', city: 'Selfridge', state: 'ND' },
   { zip: '58569', city: 'Shields', state: 'ND' },
-  { zip: '58570', city: 'Breien', state: 'ND' },
   { zip: '58570', city: 'Solen', state: 'ND' },
   { zip: '58571', city: 'Stanton', state: 'ND' },
-  { zip: '58572', city: 'McKenzie', state: 'ND' },
   { zip: '58572', city: 'Sterling', state: 'ND' },
   { zip: '58573', city: 'Strasburg', state: 'ND' },
   { zip: '58575', city: 'Turtle Lake', state: 'ND' },
@@ -9889,7 +9801,6 @@ export const zipCodes = [
   { zip: '57421', city: 'Amherst', state: 'SD' },
   { zip: '57422', city: 'Andover', state: 'SD' },
   { zip: '57424', city: 'Ashton', state: 'SD' },
-  { zip: '57424', city: 'Athol', state: 'SD' },
   { zip: '57426', city: 'Barnard', state: 'SD' },
   { zip: '57427', city: 'Bath', state: 'SD' },
   { zip: '57428', city: 'Bowdle', state: 'SD' },
@@ -9898,16 +9809,10 @@ export const zipCodes = [
   { zip: '57432', city: 'Claremont', state: 'SD' },
   { zip: '57433', city: 'Columbia', state: 'SD' },
   { zip: '57434', city: 'Conde', state: 'SD' },
-  { zip: '57434', city: 'Verdon', state: 'SD' },
   { zip: '57435', city: 'Cresbard', state: 'SD' },
   { zip: '57436', city: 'Doland', state: 'SD' },
-  { zip: '57437', city: 'Artas', state: 'SD' },
   { zip: '57437', city: 'Eureka', state: 'SD' },
   { zip: '57438', city: 'Faulkton', state: 'SD' },
-  { zip: '57438', city: 'Miranda', state: 'SD' },
-  { zip: '57438', city: 'Norbeck', state: 'SD' },
-  { zip: '57438', city: 'Wecota', state: 'SD' },
-  { zip: '57439', city: 'Ferney', state: 'SD' },
   { zip: '57440', city: 'Frankfort', state: 'SD' },
   { zip: '57441', city: 'Frederick', state: 'SD' },
   { zip: '57442', city: 'Gettysburg', state: 'SD' },
@@ -9925,16 +9830,13 @@ export const zipCodes = [
   { zip: '57460', city: 'Mansfield', state: 'SD' },
   { zip: '57461', city: 'Mellette', state: 'SD' },
   { zip: '57462', city: 'Mina', state: 'SD' },
-  { zip: '57465', city: 'Chelsea', state: 'SD' },
   { zip: '57465', city: 'Northville', state: 'SD' },
   { zip: '57466', city: 'Onaka', state: 'SD' },
   { zip: '57467', city: 'Orient', state: 'SD' },
   { zip: '57468', city: 'Pierpont', state: 'SD' },
   { zip: '57469', city: 'Redfield', state: 'SD' },
-  { zip: '57469', city: 'Zell', state: 'SD' },
   { zip: '57470', city: 'Rockham', state: 'SD' },
   { zip: '57471', city: 'Roscoe', state: 'SD' },
-  { zip: '57472', city: 'Lowry', state: 'SD' },
   { zip: '57472', city: 'Selby', state: 'SD' },
   { zip: '57473', city: 'Seneca', state: 'SD' },
   { zip: '57474', city: 'Stratford', state: 'SD' },
@@ -9943,7 +9845,7 @@ export const zipCodes = [
   { zip: '57477', city: 'Turton', state: 'SD' },
   { zip: '57479', city: 'Warner', state: 'SD' },
   { zip: '57481', city: 'Westport', state: 'SD' },
-  { zip: '57481', city: 'Wetonka', state: 'SD' },
+
 
   // Alaska
    { zip: '99501', city: 'Anchorage', state: 'AK' },
