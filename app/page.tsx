@@ -15,10 +15,18 @@ export default function Home() {
       <nav className="bg-white shadow-lg sticky top-0 z-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
-            <div className="flex items-center">
-              <Truck className="h-8 w-8 text-blue-600 mr-2" />
-              <span className="text-xl font-bold text-gray-900">BridgeLine Xpress LLC</span>
-            </div>
+            {/* Left side: icon + logo image (replaces the text) */}
+<div className="flex items-center">
+  
+  <a href="https://www.bridgelinexpressllc.com" target="_blank" rel="noopener noreferrer">
+    <img
+      src="/images/logo.jpeg"
+      alt="BridgeLine Xpress LLC"
+      className="h-16 w-auto"   // adjust size here
+    />
+  </a>
+</div>
+
             <div className="hidden md:flex items-center space-x-8">
               <Link href="/" className="text-gray-900 hover:text-blue-600 transition-colors">Home</Link>
               <Link href="/quote" className="text-gray-900 hover:text-blue-600 transition-colors">Get Quote</Link>
